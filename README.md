@@ -1,2 +1,2 @@
-# Research-Python
-Research Methods Using Python
+# Research-Methods-for-Data-Science-with-Python
+Research Methods for Data Science with Python
